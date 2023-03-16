@@ -70,6 +70,7 @@ a {
     text-align: center;
 }
 .header ul.main-ul {
+    margin-left: 0;
     display: flex;
     justify-content: space-evenly;
     align-content: center;
