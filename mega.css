@@ -947,7 +947,7 @@ margin: 10px;}
     flex-wrap: wrap;
 }
 .events .container .eventsimg img {
-    max-width: 400px;
+    max-width: 300px;
 }
 .events .container .box {
     align-self: center;
