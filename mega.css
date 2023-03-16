@@ -826,6 +826,7 @@ margin: 10px;}
 }
 @media (max-width:760px) {
     .ourskills .container {
+        width: 400px;
         flex-direction: column;
         align-items: center;
         margin-right: auto;
@@ -845,7 +846,7 @@ margin: 10px;}
     align-items: flex-start;
 }
 .ourskills .container .skills div {
-    width: 400px;
+    width: 70%;
     height: 30px;
     background-color: #9cc2e0;
     position: relative;
