@@ -53,7 +53,6 @@ a {
     display: flex;
     justify-content: space-between;
     position: relative;
-    overflow: hidden;
 }
 @media (max-width: 700px) {
     .header .container {
@@ -847,7 +846,7 @@ margin: 10px;}
     align-items: flex-start;
 }
 .ourskills .container .skills div {
-    width: 400px;
+    width: 380px;
     height: 30px;
     background-color: #9cc2e0;
     position: relative;
